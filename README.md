@@ -17,4 +17,4 @@ I'm [Gurmanjot Singh](https://www.linkedin.com/in/gurmanjot-singh-57756a219/), a
 
 ### Checkout my repos corresponding to my completed projects given below:
 
--[Clock_Divider_and_Frequency_Generator]([Repo_link](https://github.com/Gurman312/Clock_Divider_and_Frequency_Generator))
+- [Clock_Divider_and_Frequency_Generator](https://github.com/Gurman312/Clock_Divider_and_Frequency_Generator)
